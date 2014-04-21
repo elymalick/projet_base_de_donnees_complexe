@@ -1,0 +1,13 @@
+<rdf:RDF
+    xmlns:sport="http://www.ely.fr#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" > 
+  <rdf:Description rdf:about="http://www.ely.fr#Montpellier">
+    <sport:ApourEquipe rdf:resource="http://www.sports.fr#MSHC"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ely.fr#Marseille">
+    <sport:ApourEquipe rdf:resource="http://www.sports.fr#OM"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.ely.fr#Paris">
+    <sport:ApourEquipe rdf:resource="http://www.sports.fr#PSG"/>
+  </rdf:Description>
+</rdf:RDF>
